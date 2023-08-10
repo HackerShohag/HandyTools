@@ -1,0 +1,249 @@
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-5.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-5.jpg</from>
+    <to>/usr/share/backgrounds/umang_by_Abhishek_Mudgal.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/umang_by_Abhishek_Mudgal.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/umang_by_Abhishek_Mudgal.jpg</from>
+    <to>/usr/share/backgrounds/Ubuntu-Touch1.jpeg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Ubuntu-Touch1.jpeg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Ubuntu-Touch1.jpeg</from>
+    <to>/usr/share/backgrounds/peakpx.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/peakpx.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/peakpx.jpg</from>
+    <to>/usr/share/backgrounds/Dragonfly_by_Bolly.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Dragonfly_by_Bolly.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Dragonfly_by_Bolly.jpg</from>
+    <to>/usr/share/backgrounds/mbuntu-8.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-8.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-8.jpg</from>
+    <to>/usr/share/backgrounds/greentock_by_Peter_Nerlich.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/greentock_by_Peter_Nerlich.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/greentock_by_Peter_Nerlich.jpg</from>
+    <to>/usr/share/backgrounds/mbuntu-4.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-4.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-4.jpg</from>
+    <to>/usr/share/backgrounds/aitzgorri_by_Aitzol_Berasategi.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/aitzgorri_by_Aitzol_Berasategi.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/aitzgorri_by_Aitzol_Berasategi.jpg</from>
+    <to>/usr/share/backgrounds/mbuntu-2.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-2.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-2.jpg</from>
+    <to>/usr/share/backgrounds/script_file.txt</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/script_file.txt</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/script_file.txt</from>
+    <to>/usr/share/backgrounds/mbuntu-7.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-7.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-7.jpg</from>
+    <to>/usr/share/backgrounds/free_by_Peter_Nerlich.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/free_by_Peter_Nerlich.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/free_by_Peter_Nerlich.jpg</from>
+    <to>/usr/share/backgrounds/30f40c02566f9981446a10d52ece94bd.png</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/30f40c02566f9981446a10d52ece94bd.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/30f40c02566f9981446a10d52ece94bd.png</from>
+    <to>/usr/share/backgrounds/wallpapertip_wallpaper-painting-art_1759755.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/wallpapertip_wallpaper-painting-art_1759755.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/wallpapertip_wallpaper-painting-art_1759755.jpg</from>
+    <to>/usr/share/backgrounds/warty-final-ubuntu.png</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/warty-final-ubuntu.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/warty-final-ubuntu.png</from>
+    <to>/usr/share/backgrounds/mbuntu-3.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-3.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-3.jpg</from>
+    <to>/usr/share/backgrounds/mbuntu-1.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-1.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-1.jpg</from>
+    <to>/usr/share/backgrounds/Bridge_by_Sander_Klootwijk.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Bridge_by_Sander_Klootwijk.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Bridge_by_Sander_Klootwijk.jpg</from>
+    <to>/usr/share/backgrounds/picosdeeuropa_by_Aitzol_Berasategi.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/picosdeeuropa_by_Aitzol_Berasategi.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/picosdeeuropa_by_Aitzol_Berasategi.jpg</from>
+    <to>/usr/share/backgrounds/mbuntu-6.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/mbuntu-6.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/mbuntu-6.jpg</from>
+    <to>/usr/share/backgrounds/life_by_Aitzol_Berasategi.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/life_by_Aitzol_Berasategi.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/life_by_Aitzol_Berasategi.jpg</from>
+    <to>/usr/share/backgrounds/Picture_1A_by_freespace.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Picture_1A_by_freespace.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Picture_1A_by_freespace.jpg</from>
+    <to>/usr/share/backgrounds/wallpapersden.com_firewatch-digital-art_3840x2400.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/wallpapersden.com_firewatch-digital-art_3840x2400.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/wallpapersden.com_firewatch-digital-art_3840x2400.jpg</from>
+    <to>/usr/share/backgrounds/Kleiber.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Kleiber.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Kleiber.jpg</from>
+    <to>/usr/share/backgrounds/Wine_by_Jakkub_Mede.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Wine_by_Jakkub_Mede.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Wine_by_Jakkub_Mede.jpg</from>
+    <to>/usr/share/backgrounds/sunset_by_Aitzol_Berasategi.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/sunset_by_Aitzol_Berasategi.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/sunset_by_Aitzol_Berasategi.jpg</from>
+    <to>/usr/share/backgrounds/Picture_0B_by_freespace.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Picture_0B_by_freespace.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Picture_0B_by_freespace.jpg</from>
+    <to>/usr/share/backgrounds/Ubuntu-Touch2.png</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Ubuntu-Touch2.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Ubuntu-Touch2.png</from>
+    <to>/usr/share/backgrounds/make_theme.py</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/make_theme.py</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/make_theme.py</from>
+    <to>/usr/share/backgrounds/analogpattern_by_Peter_Nerlich.jpg</to>
+  </transition>  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/analogpattern_by_Peter_Nerlich.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/analogpattern_by_Peter_Nerlich.jpg</from>
+    <to>/usr/share/backgrounds/seeding_by_Clements_Engelhardt.jpg</to>
+  </transition>
