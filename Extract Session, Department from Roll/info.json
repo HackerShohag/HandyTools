@@ -1,0 +1,33 @@
+{
+    "sessions": {
+        "19": "2019-20",
+        "20": "2020-21",
+        "21": "2021-22",
+        "22": "2022-23",
+        "23": "2023-24",
+        "24": "2024-25"
+    },
+    "departments": {
+        "00": "Civil Engineering (CE)",
+        "01": "Electrical and Electronic Engineering (EEE)",
+        "02": "Mechanical Engineering (ME)",
+        "03": "Computer Science and Engineering (CSE)",
+        "04": "Electronics and Telecommunication Engineering (ETE)",
+        "05": "Industrial and Production Engineering (IPE)",
+        "06": "Glass and Ceramic Engineering (GCE)",
+        "07": "Urban and Regional Planning (URP)",
+        "08": "Mechatronics Engineering (MTE)",
+        "09": "Architecture (ARCH)",
+        "10": "Electrical and Computer Engineering (ECE)",
+        "11": "Chemical Engineering (ChE)",
+        "12": "Building Engineering and Construction Management (BECM)",
+        "13": "Materials Science and Engineering (MSE)"
+    },
+    "year": {
+        "19": "4th Year",
+        "20": "3rd Year",
+        "21": "2nd Year",
+        "22": "2nd Year",
+        "23": "1st Year"
+    }
+}
